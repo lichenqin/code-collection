@@ -32,5 +32,5 @@ int main()
 {
 	int queen[8] = {};
 	queen_set(queen,0);
-	cout << "共"<< ::ans << "种解决方案!";
+	cout << "the solution number is: " << ans;
 }
