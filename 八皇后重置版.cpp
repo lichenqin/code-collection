@@ -34,3 +34,4 @@ int main()
 	queen_set(queen,0);
 	cout << "the solution number is: " << ans;
 }
+//time: 2019/3/19 UTC: 2:55
