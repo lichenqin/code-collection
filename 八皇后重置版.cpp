@@ -34,4 +34,7 @@ int main()
 	queen_set(queen,0);
 	cout << "the solution number is: " << ans;
 }
+
 // 时间: 2019/3/19 本地时间:周二 10:58
+
+//time: 2019/3/19 UTC: 2:55
